@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "89207965f9a49495",
+    "type": "split",
+    "children": [
+      {
+        "id": "e36c8ed6f7934d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9561f5136a5aa824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能基础/11-图像识别的传统方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-图像识别的传统方法"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f45b71c3a32d768",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ea26df934ce349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7400122fc5b56afd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9b2a4a3770e8efc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7b1a683c38d1eb12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0de8255b83e951ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8ca0c3cb69c6656",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7d4a370cb4435a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人工智能基础/11-图像识别的传统方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "11-图像识别的传统方法 的反向链接列表"
+            }
+          },
+          {
+            "id": "ab5a56fa6d39d23a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "人工智能基础/11-图像识别的传统方法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "11-图像识别的传统方法 的出链列表"
+            }
+          },
+          {
+            "id": "ee74777a0a891432",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "428b8b0bce0170ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人工智能基础/11-图像识别的传统方法.md"
+              },
+              "icon": "lucide-list",
+              "title": "11-图像识别的传统方法 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9561f5136a5aa824",
+  "lastOpenFiles": [
+    "模板",
+    "人工智能基础/12-图像识别实践活动.md",
+    "人工智能基础/人工智能基础进度.md",
+    "人工智能基础/人工智能基础课程标准.md",
+    "人工智能基础/11-图像识别的传统方法.md",
+    "人工智能基础/听课/《大语言模型的语义理解》听课记录反.md",
+    "人工智能基础/1-人工智能历史发展.md",
+    "人工智能基础/4-探秘图像识别的过程.md",
+    "Imgs.md",
+    "人工智能基础/10-图像特征.md",
+    "未命名.canvas",
+    "人工智能基础/听课/Imgs/《大语言模型的语义理解3.jpg",
+    "人工智能基础/听课/Imgs/《大语言模型的语义理解4.jpg",
+    "人工智能基础/听课/Imgs/《大语言模型的语义理解1.jpg",
+    "人工智能基础/听课/Imgs/《大语言模型的语义理解2.jpg",
+    "人工智能基础/听课/Imgs",
+    "人工智能基础/听课",
+    "人工智能基础/题目-图像识别技术.md",
+    "人工智能基础/图像识别过程-初中.md",
+    "人工智能基础/图像显示.md",
+    "人工智能基础/图像存储与预处理.md",
+    "人工智能基础/test.md",
+    "人工智能基础/Mind+OpenCV.md",
+    "人工智能基础",
+    "欢迎.md"
+  ]
+}
